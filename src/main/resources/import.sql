@@ -1,0 +1,7 @@
+INSERT INTO PRODUTO (NOME, PRECO, DESCRICAO) VALUES ('Notebook', 3500.00, 'Notebook Dell Inspiron');
+INSERT INTO PRODUTO (NOME, PRECO, DESCRICAO) VALUES ('Mouse', 50.00, 'Mouse sem fio');
+INSERT INTO PRODUTO (NOME, PRECO, DESCRICAO) VALUES ('Teclado', 80.00, 'Teclado mecânico RGB');
+INSERT INTO PRODUTO (NOME, PRECO, DESCRICAO) VALUES ('Monitor', 1200.00, 'Monitor Full HD 24 polegadas');
+INSERT INTO PRODUTO (NOME, PRECO, DESCRICAO) VALUES ('Impressora', 800.00, 'Impressora multifuncional');
+INSERT INTO PRODUTO (NOME, PRECO, DESCRICAO) VALUES ('HD Externo', 300.00, 'HD externo de 1TB');
+INSERT INTO PRODUTO (NOME, PRECO, DESCRICAO) VALUES ('Cadeira Gamer', 1500.00, 'Cadeira ergonômica para jogos');
