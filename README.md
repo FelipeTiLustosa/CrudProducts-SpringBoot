@@ -38,7 +38,8 @@ crud-produto/
 |   ├── main/
 |   │   ├── java/com/exemplo/crudproduto/
 |   │   │   ├── controller/         # Controladores responsáveis (ProdutoController)
-|   │   │   ├── model/              # Classe de entidade Produto
+|   │   │   ├── entidades/          # Classe de entidade Produto
+|   |   |   ├── servicos/           # Servicos 
 |   │   │   └── repository/         # Interfaces de acesso aos dados (Spring Data JPA)
 |   │   │
 |   │   ├── resources/
