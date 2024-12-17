@@ -92,11 +92,11 @@ O arquivo `import.sql` adiciona dados iniciais automaticamente ao banco.
 2. **Passos**:
    - Clone o repositório:
      ```bash
-     git clone https://github.com/seu-usuario/crud-produtos-springboot.git
+     git clone https://github.com/FelipeTiLustosa/CrudProducts-SpringBoot.git
      ```
    - Acesse o diretório:
      ```bash
-     cd crud-produtos-springboot
+     cd CrudProducts-SpringBoot
      ```
    - Execute o projeto com Maven:
      ```bash
@@ -139,10 +139,9 @@ O arquivo `import.sql` adiciona dados iniciais automaticamente ao banco.
 
 ## 💼 Contato
 
-- **Nome**: Seu Nome
-- **E-mail**: seuemail@example.com
-- **LinkedIn**: [Seu Perfil](https://linkedin.com/in/seu-perfil)
-- **GitHub**: [Seu GitHub](https://github.com/seu-usuario)
+- **Nome**: Felipe Lustosa Carvalho
+- **E-mail**: felipelustosa915@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/felipe-lustosa-carvalho-6a3581276/
 
 ---
 
